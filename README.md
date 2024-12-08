@@ -22,6 +22,8 @@
 
 # Estou Estudando:
 ![Static Badge](https://img.shields.io/badge/AWS_-_Escola_da_nuvem_‒_Dev_IA-000?style=for-the-badge&logo=amazonwebservices&logoColor=FAD493&labelColor=000)
+![Static Badge](https://img.shields.io/badge/Duolingo_-_Inglês-000?style=for-the-badge&logo=duolingo&logoColor=FAD493&labelColor=000)
+
 
 # Meu SetUp:
 
