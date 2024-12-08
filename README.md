@@ -1,4 +1,4 @@
-<img align="right" alt="Avatar Octocat" height="350" src="/assets/octocat-1696545643734.png">
+<img align="right" alt="Avatar Octocat" height="350" src="/octocat-1733694015960.png">
 
 
 - 👋 Hi, I’m @BrunoSousaMessias
